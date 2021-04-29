@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola, I'm Wesley van Balen! 👋
 
-<!--
-**WesleyvanBalen/WesleyvanBalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my own portfolio wesbite redesign.
+- 🌱 I’m currently learning Flutter and Vue.js.
+- 💬 Ask me about Flutter or any tech related stuff.
+- 📫 How to reach me: [Instagram - @WesleyvB](https://www.instagram.com/wesleyv_b/).
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I like to draw and drive my car.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="https://github-readme-stats.vercel.app/api?username=wesleyvanbalen&&show_icons=true&title_color=ffffff&icon_color=03C8AF&text_color=daf7dc&bg_color=24292E&border_color=03C8AF&include_all_commits=true">
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitmaster99&layout=compact&&show_icons=true&title_color=ffffff&text_color=daf7dc&bg_color=24292E&border_color=03C8AF)](https://github.com/gitmaster99/github-readme-stats)
